@@ -26,22 +26,23 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 
 [linkedin]: https://www.linkedin.com/in/jrlyons13
 
+
+<b>My LinkedIn profile</b>
+<h2>More...</h2>
+
+
+
+<!---
+jrlyons13/jrlyons13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
 - 👋 Hi, I’m @jrlyons13
 - 👀 I’m interested in CyberSecurity Projects, AWS/Cloud Architecture, Network Engineering
 - 🌱 I’m currently learning AWS Architecture, XSS Sxripting, SQL Injection
 - 💞️ I’m looking to collaborate on SIEM and Vulnerability management projects
 - 📫 How to reach me jrlyons13@gmail.com
-
-<!---
-jrlyons13/jrlyons13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
