@@ -1,4 +1,4 @@
-<h1>Hi, I'm James! <br/><a href="https://github.com/jrlyons13">Network Engineer</a>, <a href="https://www.linkedin.com/in/jrlyons13/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/jrlyons13/">AWS Architect</a><h1>
+<h1>Hi, I'm James! <br/><a href="https://github.com/jrlyons13">Network Security Engineer</a>, <a href="https://www.linkedin.com/in/jrlyons13/">Cloud Security</a>, <a href="https://www.linkedin.com/in/jrlyons13/">Cyber Security Instructor</a><h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
