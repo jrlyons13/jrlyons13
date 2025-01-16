@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- <b>Wazuh SIEM and OpenVAS (AlgoExpert)</b>
+- <b>Wazuh SIEM and OpenVAS </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Ethical Hacking</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Password Harvesting with Social Engineering Toolkit: AWS EC2 Ubuntu Web Server Running Creddential Harvester Attack](https://github.com/jrlyons13/SEToolkitAWS)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
