@@ -2,19 +2,15 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- <b>Wazuh SIEM and OpenVAS </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Wazuh SIEM </b>
+  - [Wazuh Server Set up](https://github.com/jrlyons13)
 - <b>Ethical Hacking</b>
   - [Password Harvesting with Social Engineering Toolkit: AWS EC2 Ubuntu Web Server Running Creddential Harvester Attack](https://github.com/jrlyons13/SEToolkitAWS)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>AWS Architect</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [AWS WAF to protect from SQLi and XSS Attack: AWS Instance with DVWA](https://github.com/jrlyons13)
+- <b>Cloud Security Projects - AWS Architect</b>
+  - [Terraform Compliance Automation: Secure EC2 instance deployment with SOC2, BSI C5 and GDPR standards](https://github.com/jrlyons13)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Automating AWS Compliance Checks: Python Script with Boto3](https://github.com/jrlyons13)
 
 <h2>📺 Popular YouTube/Loom Videos</h2>
 
