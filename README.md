@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
+- <b>Reverse Engineering - Binary Analysis Lab </b>
+  - [Binary Analysis Lab](https://github.com/jrlyons13/Binary-Analysis-Lab-)
 - <b>Wazuh SIEM </b>
   - [Wazuh Server Set up](https://github.com/jrlyons13)
 - <b>Ethical Hacking</b>
