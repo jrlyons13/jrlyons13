@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
+- <b>AWS + NGINX Application Delivery Project </b>
+  - [AWS NGINX App Deliv Lab](https://github.com/jrlyons13/aws-nginx-application-delivery)
 - <b>Reverse Engineering - Binary Analysis Lab </b>
   - [Binary Analysis Lab](https://github.com/jrlyons13/Binary-Analysis-Lab-)
 - <b>Wazuh SIEM </b>
