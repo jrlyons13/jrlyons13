@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
+- <b>Using Palo Alto's Checkov to scan and secure IaC </b>
+  - [Checkov scan and Secure of Terraform script](https://github.com/jrlyons13/checkov-devsecops-lab)
 - <b>AWS + NGINX Application Delivery Project </b>
   - [AWS NGINX App Deliv Lab](https://github.com/jrlyons13/aws-nginx-application-delivery)
 - <b>Reverse Engineering - Binary Analysis Lab </b>
